@@ -1,6 +1,6 @@
 import json
 import pyqrcodeng as pyqrcode
-import jwt
+import EdDSAjwtB44 as jwt
 
 private_key = b"""-----BEGIN PRIVATE KEY-----d
 MC4CAQAwBQYDK2VwBCIEIE/O8gYJBDInm1G+SW65uDJ8nmUNU+DBdcQLHZRR/ra4
